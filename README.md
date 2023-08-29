@@ -18,8 +18,7 @@ Siga as instruções fornecidas pelo script para inserir os dados necessários, 
 O script criará os arquivos docker-compose.yml e .env com as configurações fornecidas e iniciará o serviço do n8n.
 
 <br>🙋‍♂️ Dê preferência a vps com Debian LTS, vai funciona melhor e consome menos memória. 
-<br>Certifique-se de revisar e entender o script antes de executá-lo, pois ele realizará a instalação e configuração no sistema.
-<br>
+
 ---
 Se este projeto te ajudou e você gostaria de contribuir, considere fazer uma doação via PIX:
 
