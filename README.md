@@ -24,7 +24,7 @@ Se este projeto te ajudou e você gostaria de contribuir, considere fazer uma do
 
 ![QR Code PIX](link-para-o-seu-qr-code-pix)
 
-❗➡️Chave PIX: 04a1233f-3e80-4b70-a32a-1742f59bab0b
+❗➡️Chave PIX: 5997fcbf-fbad-41ae-87da-cdbe0c8e9f70
 
 Sua contribuição é muito apreciada e ajudará no desenvolvimento contínuo deste projeto. Muito obrigado!
 Licença
