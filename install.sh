@@ -127,7 +127,7 @@ function exibir_menu() {
 
   read -p "Opção: " opcao
 
-  case \$opcao in
+  case $opcao in
     1) instalar_n8n ;;
     2) atualizar_n8n ;;
     3) exit ;;
