@@ -16,10 +16,24 @@ Este repositório contém um script bash para automatizar a instalação do n8n 
 <br>
 Siga as instruções fornecidas pelo script para inserir os dados necessários, como a pasta de dados, domínio, subdomínio, autenticação básica e outros.
 O script criará os arquivos docker-compose.yml e .env com as configurações fornecidas e iniciará o serviço do n8n.
+
+<br><br>🙋‍♂️ Dê preferência a vps com Debian LTS, vai funciona melhor e consome menos memória. 
+
 <br><br>Certifique-se de revisar e entender o script antes de executá-lo, pois ele realizará a instalação e configuração no sistema.
 
 <br><br>Contribuição
 Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma Issue ou enviar um Pull Request. Toda contribuição é bem-vinda!
+<br><br>
+---
+
+Se este projeto te ajudou e você gostaria de contribuir, considere fazer uma doação via PIX:
+
+![QR Code PIX](link-para-o-seu-qr-code-pix)
+
+❗➡️Chave PIX: 04a1233f-3e80-4b70-a32a-1742f59bab0b
+
+Sua contribuição é muito apreciada e ajudará no desenvolvimento contínuo deste projeto. Muito obrigado!
+
 
 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
