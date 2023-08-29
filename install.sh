@@ -53,7 +53,7 @@ services:
       - "80:80"
       - "443:443"
     volumes:
-      - \${DATA_FOLDER}/letsencrypt:/letsencrypt
+      - ./letsencrypt:/letsencrypt
       - /var/run/docker.sock:/var/run/docker.sock:ro
 
   n8n:
@@ -87,7 +87,7 @@ services:
       - WEBHOOK_URL=https://\${SUBDOMAIN}.\${DOMAIN_NAME}/
       - GENERIC_TIMEZONE=\$GENERIC_TIMEZONE
     volumes:
-      - \${DATA_FOLDER}/.n8n:/home/node/.n8n
+      - ./.n8n:/home/node/.n8n
 EOF
 
   echo "Arquivo docker-compose.yml criado com sucesso!"
