@@ -1,4 +1,3 @@
-# auto-instalador-n8n
 SCRIPT DE AUTO INSTALAÇÃO PARA N8N COM SSL 
 
 # Auto Instalador n8n
