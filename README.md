@@ -3,6 +3,7 @@ SCRIPT DE AUTO INSTALAÇÃO PARA N8N COM SSL
 # Auto Instalador n8n
 
 Este repositório contém um script bash para automatizar a instalação do n8n em sistemas Debian e Ubuntu, usando Docker e Docker Compose.
+<br>Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma Issue ou enviar um Pull Request. Toda contribuição é bem-vinda!
 
 ## Como Usar
 
@@ -18,7 +19,6 @@ O script criará os arquivos docker-compose.yml e .env com as configurações fo
 
 <br>🙋‍♂️ Dê preferência a vps com Debian LTS, vai funciona melhor e consome menos memória. 
 <br>Certifique-se de revisar e entender o script antes de executá-lo, pois ele realizará a instalação e configuração no sistema.
-<br>Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma Issue ou enviar um Pull Request. Toda contribuição é bem-vinda!
 <br>
 ---
 Se este projeto te ajudou e você gostaria de contribuir, considere fazer uma doação via PIX:
